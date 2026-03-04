@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "完全放棄宣言",
+  "base_artist": "ナナヲアカリ",
+  "createdAt": "2026-03-04T16:41:11.675137Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "完全放棄宣言",
+      "artist": "ナナヲアカリ",
+      "has_synced": false,
+      "path": "select/01_完全放棄宣言_ナナヲアカリ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "完全放棄宣言",
+      "artist": "Nanawo, Akari",
+      "has_synced": true,
+      "path": "select/02_完全放棄宣言_Nanawo,_Akari.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "完全放棄宣言",
+      "artist": "NANAOAKARI",
+      "has_synced": true,
+      "path": "select/03_完全放棄宣言_NANAOAKARI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "完全放棄宣言",
+      "artist": "NANAOAKARI",
+      "has_synced": true,
+      "path": "select/04_完全放棄宣言_NANAOAKARI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "完全放棄宣言",
+      "artist": "KMNZ LIZ",
+      "has_synced": true,
+      "path": "select/05_完全放棄宣言_KMNZ_LIZ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "完全放棄宣言",
+      "artist": "ナナヲアカリ",
+      "has_synced": true,
+      "path": "select/06_完全放棄宣言_ナナヲアカリ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "完全放棄宣言",
+      "artist": "Akari Nanawo",
+      "has_synced": true,
+      "path": "select/07_完全放棄宣言_Akari_Nanawo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "完全放棄宣言",
+      "artist": "ナナヲアカリ",
+      "has_synced": false,
+      "path": "select/pl_01_完全放棄宣言_ナナヲアカリ.txt"
+    }
+  ]
+}
